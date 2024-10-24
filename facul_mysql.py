@@ -7,7 +7,7 @@ def conectarBd():
         conn = mysql.connector.connect(
             host ='localhost',
             user='root',
-            password='admsys2811',
+            password='password?',
             database='faculdade'
         )
 
